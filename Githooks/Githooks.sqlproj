@@ -193,6 +193,7 @@
     <None Include="Schema-Model\dbo\Views\ArticlesPriceList.sql" />
     <None Include="Schema-Model\dbo\Views\v_Articles.sql" />
     <None Include="Schema-Model\dbo\Views\v_Blogs.sql" />
+    <None Include="Migrations\001_20200805-0339_redgate.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Pre-Deployment\01_Initialize_Deployment.sql" />
